@@ -5,3 +5,8 @@ public abstract class AbstractAnalyzer {
 	
 	public abstract void analyze();
 }
+
+// indicator
+public void indicator(){
+
+}
